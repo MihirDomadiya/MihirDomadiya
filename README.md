@@ -1,6 +1,8 @@
 ![Snake animation](https://github.com/dhruviklathiya/dhruviklathiya/blob/main/assets/github-user-contribution.svg)
 # 📊 GitHub Stats:
-![]([https://nirzak-streak-stats.vercel.app/?user=mihirDomadiya&theme=nightowl&hide_border=false](https://nirzak-streak-stats.vercel.app/?user=mihirdomadiya&theme=dark&hide_border=false))
+![](https://github-readme-stats.vercel.app/api?username=mihirdomadiya&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mihirdomadiya&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mihirdomadiya&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mihirdomadiya) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/mihir-domadiya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mihirdomadiya5@gmai.com) 

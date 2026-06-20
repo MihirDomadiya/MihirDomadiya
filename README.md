@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HERO BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff6900&height=200&section=header&text=Mihir%20Domadiya&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=CEO%20Founder%20at%20Dmind%20AI%20%7C%20AI%20Automation%20Expert&descAlignY=58&descColor=ffffff&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff6900&height=200&section=header&text=Mihir%20Domadiya&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=CTO%20Founder%20at%20Dmind%20AI%20%7C%20AI%20Automation%20Expert&descAlignY=58&descColor=ffffff&descSize=18" />
 
 <!-- TYPING ANIMATION -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6900&center=true&vCenter=true&width=700&lines=AI+%26+Automation+Expert;Full+Stack+Developer;AI+Researcher+%7C+ML+Engineer;CEO+%26+Founder+of+Dmind+AI;Building+the+Future+with+AI)](https://git.io/typing-svg)
@@ -23,9 +23,9 @@
 ## 🔥 About Me
 
 ```python
-class DhruvikLathiya:
-    name       = "Dhruvik Lathiya"
-    role       = "CEO & Founder @ Dmind AI"
+class MihirDomadiya:
+    name       = "Mihir Domadiya"
+    role       = "CTO & Founder @ Dmind AI"
     expertise  = ["AI Automation", "Machine Learning", "Full Stack Dev", "AI Research"]
     stack      = ["Python", "React", "Next.js", "FastAPI", "TensorFlow", "n8n", "Node.js"]
     currently  = "Building intelligent automation products at Dmind AI"
@@ -47,7 +47,7 @@ class DhruvikLathiya:
 
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://www.linkedin.com/posts/dhruviklathiya_ai-automation-hackathon-activity-7346760931940413441-1FyH">
     <img src="https://github.com/dhruviklathiya/dhruviklathiya/raw/main/certifications/AI-Automation-2025.png" width="280" style="border-radius:12px; border: 3px solid #ff6900;" />
   </a>
@@ -55,7 +55,7 @@ class DhruvikLathiya:
   <a href="https://www.linkedin.com/feed/update/urn:li:activity:7080397546728173568/">
     <img src="https://github.com/dhruviklathiya/dhruviklathiya/raw/main/certifications/1688098311876.jpeg" width="280" style="border-radius:12px; border: 3px solid #ff6900;" />
   </a>
-</div>
+</div> -->
 
 ---
 
@@ -115,8 +115,8 @@ class DhruvikLathiya:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dhruviklathiya&show_icons=true&theme=github_dark&title_color=ff6900&icon_color=ff6900&border_color=ff6900&border_radius=12&hide_border=false" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruviklathiya&theme=github-dark-blue&ring=ff6900&fire=ff6900&currStreakLabel=ff6900&border=ff6900&border_radius=12" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MihirDomadiya&show_icons=true&theme=github_dark&title_color=ff6900&icon_color=ff6900&border_color=ff6900&border_radius=12&hide_border=false" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MihirDomadiya&theme=github-dark-blue&ring=ff6900&fire=ff6900&currStreakLabel=ff6900&border=ff6900&border_radius=12" />
 
 <!-- <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruviklathiya&layout=compact&theme=github_dark&title_color=ff6900&border_color=ff6900&border_radius=12&langs_count=8" /> -->
 

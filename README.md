@@ -156,7 +156,7 @@ class MihirDomadiya:
 
 <br/>
 
-**Dhruvik Lathiya** · CEO & Founder @ [Dmind AI](https://www.dmindai.com/)
+**Mihir Domadiya** · CTO & Founder @ [Dmind AI](https://www.dmindai.com/)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff6900&height=120&section=footer" />
 

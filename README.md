@@ -140,68 +140,11 @@ class MihirDomadiya:
 
 ---
 
-## 📜 Certifications
-
-<details>
-<summary><strong>🏅 View All 19 Globally Recognized Certifications</strong></summary>
-<br/>
-
-### 🔵 Meta | Front-End Developer Professional Certificate
-| # | Certificate | Link |
-|---|---|---|
-| ✅ | Meta Front-End Developer (Full Specialization) | [Verify](https://www.coursera.org/account/accomplishments/professional-cert/DPJ4F7HJBBW4) |
-| ✅ | Introduction to Front-End Development | [Verify](https://www.coursera.org/account/accomplishments/verify/94Z6P5F6MTD9) |
-| ✅ | Programming with JavaScript | [Verify](https://www.coursera.org/account/accomplishments/verify/SL48W3JTZPKJ) |
-| ✅ | Version Control | [Verify](https://www.coursera.org/account/accomplishments/verify/6YU85U9G3UY8) |
-| ✅ | HTML and CSS in Depth | [Verify](https://www.coursera.org/account/accomplishments/verify/VX3FMDCA38WC) |
-| ✅ | React Basics | [Verify](https://www.coursera.org/account/accomplishments/verify/VR9FJULW2KMW) |
-| ✅ | Advanced React | [Verify](https://www.coursera.org/account/accomplishments/verify/MP9G7UPV77BF) |
-| ✅ | Principles of UX/UI Design | [Verify](https://www.coursera.org/account/accomplishments/verify/PFXDPWTA6F8L) |
-| ✅ | Front-End Developer Capstone | [Verify](https://www.coursera.org/account/accomplishments/verify/PVW4BHNQSJET) |
-| ✅ | Coding Interview Preparation | [Verify](https://www.coursera.org/account/accomplishments/verify/CA87AM249KX7) |
-| ✅ | WhatsApp Business Platform for Developers | [Verify](https://www.coursera.org/account/accomplishments/verify/2U85YLJ7KZJ8) |
-
-### 🟢 Microsoft | 365 Fundamentals Specialization
-| # | Certificate | Link |
-|---|---|---|
-| ✅ | Microsoft 365 Fundamentals (Full Specialization) | [Verify](https://www.coursera.org/account/accomplishments/specialization/JN48YSPKXLLW) |
-| ✅ | Work Smarter with Microsoft Word | [Verify](https://www.coursera.org/account/accomplishments/verify/A9WHK5G9QVPZ) |
-| ✅ | Work Smarter with Microsoft Excel | [Verify](https://www.coursera.org/account/accomplishments/verify/7Z7FJE57JGA9) |
-| ✅ | Work Smarter with Microsoft PowerPoint | [Verify](https://www.coursera.org/account/accomplishments/verify/VHEVNZSPLHWF) |
-
-### 🔴 IBM | Data Science
-| # | Certificate | Link |
-|---|---|---|
-| ✅ | What Is Data Science? | [Verify](https://www.coursera.org/account/accomplishments/verify/35IZODVLQZVA) |
-| ✅ | Tools For Data Science | [Verify](https://www.coursera.org/account/accomplishments/verify/CM9ZZBPDJYEV) |
-| ✅ | Data Science Methodology | [Verify](https://www.coursera.org/account/accomplishments/verify/9G9YX16TNX35) |
-
-### 🟡 Google
-| # | Certificate | Link |
-|---|---|---|
-| ✅ | Introduction to Augmented Reality and ARCore | [Verify](https://www.coursera.org/account/accomplishments/verify/UULTC3LZMSFJ) |
-
-</details>
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center"><a href="https://www.coursera.org/account/accomplishments/professional-cert/DPJ4F7HJBBW4"><img src="https://github.com/dhruviklathiya/dhruviklathiya/blob/main/certifications/all9metafrontend.png" width="260"/><br/><sub><b>Meta Front-End Developer</b></sub></a></td>
-    <td align="center"><a href="https://www.coursera.org/account/accomplishments/specialization/JN48YSPKXLLW"><img src="https://github.com/dhruviklathiya/dhruviklathiya/blob/main/certifications/all3microsoft.png" width="260"/><br/><sub><b>Microsoft 365 Fundamentals</b></sub></a></td>
-    <td align="center"><a href="https://www.linkedin.com/posts/dhruviklathiya_ai-automation-hackathon-activity-7346760931940413441-1FyH"><img src="https://github.com/dhruviklathiya/dhruviklathiya/blob/main/certifications/goldmedalaiautomation.jpg" width="260"/><br/><sub><b>🥇 AI & Automation Hackathon 2025</b></sub></a></td>
-  </tr>
-</table>
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
 
-[![Dhruvik's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dhruviklathiya&theme=react-dark&bg_color=000000&color=ff6900&line=ff6900&point=ffffff&area=true&hide_border=false&border_color=ff6900)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Mihir's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MihirDomadiya&theme=react-dark&bg_color=000000&color=ff6900&line=ff6900&point=ffffff&area=true&hide_border=false&border_color=ff6900)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 

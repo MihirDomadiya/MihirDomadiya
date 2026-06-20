@@ -35,18 +35,6 @@ class MihirDomadiya:
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-| 🥇 Achievement | 📅 Year | 🔗 Proof |
-|---|---|---|
-| **Gold Medal** — AI & Automation Hackathon | 2025 | [View on LinkedIn](https://www.linkedin.com/posts/dhruviklathiya_ai-automation-hackathon-activity-7346760931940413441-1FyH) |
-| **Gold Medal** — Tech War CodeJam | 2023 | [View on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7080397546728173568/) |
-| **19 Global Certifications** — Meta, Microsoft, IBM, Google | 2022–2025 | See below |
-
-</div>
-
 <!-- <div align="center">
   <a href="https://www.linkedin.com/posts/dhruviklathiya_ai-automation-hackathon-activity-7346760931940413441-1FyH">
     <img src="https://github.com/dhruviklathiya/dhruviklathiya/raw/main/certifications/AI-Automation-2025.png" width="280" style="border-radius:12px; border: 3px solid #ff6900;" />
